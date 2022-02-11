@@ -1,7 +1,6 @@
 # Data_Modelling_Techniques_Project_with_NHANES_diabetes_dataset
 # Background
 EE3211 Modelling Techniques Report
-PATRA Yuvraj (SID: 55907774) TOPIC 1
 <br/> Diabetes mellitus (DM), commonly known as diabetes, is a group of metabolic disorders characterized by a high blood sugar level over a prolonged period. We are trying to find a relation between diabetes and a person’s physical characteristics such as blood pressure, blood cholesterol and alcohol drinking habits.
 The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States. The survey is unique in that it combines interviews and physical examinations. NHANES is a major program of the National Centre for Health Statistics (NCHS). NCHS is part of the Centres for Disease Control and Prevention (CDC) and has the responsibility for producing vital and health statistics for the Nation.
 # Objective
