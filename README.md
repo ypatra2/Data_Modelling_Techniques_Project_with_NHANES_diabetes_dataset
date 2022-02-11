@@ -1,0 +1,2 @@
+# Data_Modelling_Techniques_Project_with_NHANES_diabetes_dataset
+ The objective of this project is to identify a number of body-factors and life habits and to determine whether they have an association with diabetes. Data for this project will be collected from the NHANES website. The datasets used for this project are as follows: Datasets: Diabetes Questionnaire Data, Body Measures Data, Blood Pressure & Cholesterol Questionnaire Data, Alcohol Use Questionnaire Data (2017-2018).
