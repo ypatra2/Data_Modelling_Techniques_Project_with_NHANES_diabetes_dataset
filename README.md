@@ -1,4 +1,4 @@
-# Data_Modelling_Techniques_Project_with_NHANES_diabetes_dataset
+# Data Modelling Techniques Project with NHANES diabetes dataset
 # Background
 EE3211 Modelling Techniques Report
 <br/> Diabetes mellitus (DM), commonly known as diabetes, is a group of metabolic disorders characterized by a high blood sugar level over a prolonged period. We are trying to find a relation between diabetes and a person’s physical characteristics such as blood pressure, blood cholesterol and alcohol drinking habits.
